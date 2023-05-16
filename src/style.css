@@ -566,7 +566,7 @@ button {
 
   background-color: white;
   border-radius: 5px;
-  box-shadow: 1px 1px 3px #333;
+  box-shadow: 5px 5px 1px var(--blue);
   z-index: -5;
 }
 
