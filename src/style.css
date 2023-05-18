@@ -612,7 +612,7 @@ button {
 }
 
 .article__p {
-  max-width: 50%;
+  max-width: 100%;
 }
 
 .div__image {
@@ -623,6 +623,12 @@ button {
 
   position: relative;
   z-index: 5;
+}
+
+@media (min-width: 640px) {
+  .article__p {
+    max-width: 50%;
+  }
 }
 
 .article__image {
