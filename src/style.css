@@ -685,6 +685,7 @@ li h4 {
 }
 
 .geo-graphic {
+  width: 100%;
   max-width: 720px;
   margin: auto;
 }
@@ -736,6 +737,7 @@ li h4 {
 .left-side p {
   font-family: var(--ff-sans-normal);
   font-weight: 700;
+  text-align: left;
 }
 
 .board__name {
